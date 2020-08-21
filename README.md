@@ -26,4 +26,3 @@ data into space-time data matrix format then applying SVD to obtain results.
 The visualizations display the first three modes to show the correlation with the weekends at 
 a specific hour. The GIF demonstrates the relationship on the NYC map for 24 hours of December 2014.
 
-![](https://github.com/molokaicat/NYCTaxiSVD/blob/master/Plot_GIF/hours.gif)
